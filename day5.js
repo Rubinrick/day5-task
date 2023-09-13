@@ -20,7 +20,7 @@ for(let i =0; i<values.length; i++){
 };
 
 // forEach loop
-/*here the JSON is from above 
+//where the JSON is from above 
 const jsonIterate = {  
 
         "name":    "Rubin",   
